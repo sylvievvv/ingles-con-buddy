@@ -43,8 +43,8 @@ So I built them an app of my own: **free, no ads, no account**, and focused on t
 
 <p align="center">
   <img src="media/screenshot-home.png" alt="Home screen with Buddy" width="230">
-  <img src="media/screenshot-les.png" alt="A question in a lesson" width="230">
-  <img src="media/screenshot-uitspraak.png" alt="Explanation of V and B" width="230">
+  <img src="media/screenshot-lesson.png" alt="A question in a lesson" width="230">
+  <img src="media/screenshot-pronunciation.png" alt="Explanation of V and B" width="230">
 </p>
 
 ## How it works
